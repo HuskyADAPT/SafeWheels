@@ -16,3 +16,7 @@ you can change what's on the website by either changing the markdown file on mas
 ## Screenshots
 
 ## Authors
+Hongjian Jiang 
+Colin Eckhoff
+Mack Ikeru
+Kush Tekriwal
