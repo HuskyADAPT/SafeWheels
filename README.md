@@ -1,6 +1,9 @@
 
 # SafeWheels
 
+
+I'll add some stuff to SafeWheels.
+I'm thinking of adding a LOGO
 # LOGO
 
 # Group PROJECT 
