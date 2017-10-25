@@ -1,6 +1,11 @@
 
 # SafeWheels
 
+![SafeWheels](Meta/AFishClipart.png)
+
+## Screenshots
+<img src="metadata/en/images/phoneScreenshots/screenshot1.png" width="170"/> <img src="metadata/en/images/phoneScreenshots/screenshot2.png" width="170"/> <img src="metadata/en/images/phoneScreenshots/screenshot3.png" width="170"/> <img src="metadata/en/images/phoneScreenshots/screenshot4.png" width="170"/> <img src="metadata/en/images/phoneScreenshots/screenshot5.png" width="170"/>
+
 # LOGO
 
 # Group PROJECT 
