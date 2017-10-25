@@ -1,12 +1,8 @@
 
-# SafeWheels
+## SafeWheels
 
-
-I'll add some stuff to SafeWheels.
-I'm thinking of adding a LOGO
-
-
-# ![SafeWheels](Meta/AFishClipart.png)
+# Need Statement
+Children with and without disabilities needs to move autonomously in a way that makes them feel included and entertained. 
 
 # LOGO
 
