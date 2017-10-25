@@ -4,6 +4,10 @@
 
 I'll add some stuff to SafeWheels.
 I'm thinking of adding a LOGO
+
+
+# ![SafeWheels](Meta/AFishClipart.png)
+
 # LOGO
 
 # Group PROJECT 
