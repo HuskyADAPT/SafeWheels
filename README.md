@@ -29,10 +29,7 @@ Accessible controls for child (electronic, responsive, adjustable), Safety of op
 31st October 2017: Researched electrical and mechanical possibilities of joystick. 
 
 # Next Steps
-Visit Go Baby Go workshop to understand functionality of car
-Prepare budget and order components
-Build a working model 
-Test prototype with children
+Visit Go Baby Go workshop to understand functionality of car, Prepare budget and order components, Build a working model, Test prototype with children
 
 # Acknowledgements
 Dr. Heather Feldner, Dr. Kat Steele, Dr. Shawn Israel, Ms. Brianna Goodwin
