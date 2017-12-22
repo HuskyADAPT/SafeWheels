@@ -23,16 +23,30 @@ Selecting a joystick as the complete control interface for the driver of the rid
 We want to use the parts which can be bought easily and do not need professional machine work. The whole steering mechanism is easy to understand by the people even without basic engineering skills. Hence, we plan to fabricate these mechanical parts with 3D printer using ABS material, which is tough and non-toxic. The builders can just receive the electronic-format models and put them in the 3D printer. However, whether the conventional mechanical way should be replaced with the 3D printing method depends on the feedback.  
 
 # Functions
-Accessible controls for child (electronic, responsive, adjustable), Safety of operation (secure seating, no jerky movement, emergency stop switch), User-friendly, Ease of assembly (low component number), Affordable
+Accessible controls for child (electronic, responsive, adjustable)  
+Safety of operation (secure seating, no jerky movement, emergency stop switch)  
+User-friendly  
+Ease of assembly (low component number)  
+Affordable
 
 # Progress
-31st October 2017: Researched electrical and mechanical possibilities of joystick. 
+17th October 2017: Went to toy store and examined the toy car we will be modifying.  
+24th October 2017: Research and ideation of different steering mechanisms using arduinos through online projects.  
+31st October 2017: Researched electrical and mechanical possibilities of joystick.  
+7th November 2017: Mid-Quarter Presentation.  
+14th November 2017: Researched power steering.  
+21st November 2017: Finalised core functions, design idea.  
+14th December 2017: Final Presentation.
 
 # Next Steps
-Visit Go Baby Go workshop to understand functionality of car, Prepare budget and order components, Build a working model, Test prototype with children
+Visit Go Baby Go workshop to understand functionality of car  
+Prepare budget and order components  
+Build a working model  
+Test prototype with children
 
 # Acknowledgements
-Dr. Heather Feldner, Dr. Kat Steele, Dr. Shawn Israel, Ms. Brianna Goodwin
+Dr. Heather Feldner, Dr. Kat Steele, Dr. Shawn Israel, Ms. Brianna Goodwin  
+We thank the Mathers Fund to Empower and Improve Human Ability for their ongoing support of HuskyAdapt.
 
 # Authors
 Hongjian Jiang , Colin Eckhoff, Mack Ikeru, Kush Tekriwal
