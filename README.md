@@ -1,4 +1,4 @@
-<center>![Go Baby Go Seattle](https://www.marymount.edu/getattachment/Academics/Malek-School-of-Health-Professions/Graduate-Programs/Physical-Therapy-(D-P-T-)/Go-Baby-Go-at-Marymount-University/go_baby_go_logo.jpg.aspx?width=400&height=352)</center>
+![Go Baby Go Seattle](https://www.marymount.edu/getattachment/Academics/Malek-School-of-Health-Professions/Graduate-Programs/Physical-Therapy-(D-P-T-)/Go-Baby-Go-at-Marymount-University/go_baby_go_logo.jpg.aspx?width=400&height=352)
 
 # Need Statement
 Children need more accessible steering options for ride-on cars, which enables movement because every child deserves to move autonomously. 
