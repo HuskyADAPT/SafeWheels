@@ -49,4 +49,4 @@ Dr. Heather Feldner, Dr. Kat Steele, Dr. Shawn Israel, Ms. Brianna Goodwin
 We thank the Mathers Fund to Empower and Improve Human Ability for their ongoing support of HuskyAdapt.
 
 # Authors
-Hongjian Jiang , Colin Eckhoff, Mack Ikeru, Kush Tekriwal
+Hongjian Jiang , Colin Eckhoff, Kush Tekriwal
