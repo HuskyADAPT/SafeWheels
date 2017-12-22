@@ -7,7 +7,7 @@ About Go Baby Go: After a lab meeting in a local toy store led by founder Dr. Co
 
 Challenge: Go Baby Go cars provide a fun and inviting way for young children with and without disabilities to move around, play with their peers, and explore their environment. Usually, the child activates the car by pressing a large, easy to press button, positioned on top of the steering wheel. In many cases, however, steering the car on his or her own is difficult for the child, due to differences in hand and arm coordination, range of motion, and/or strength. Caregivers, siblings, or therapists often have to turn the steering wheel for the child, and to do this requires bending over a moving vehicle, which is uncomfortable to do for long periods of time, and decreases the independence that can be enjoyed by the child. This design challenge involves creating child-led steering solutions for a Frozen™ Go Baby Go modified ride-on car, so a child may activate and steer the ride-on car independently, regardless of upper extremity ability. These solutions should be safe, affordable, replicable for other car models and other children, and allow for improved access of both child and caregiver to enjoy their Go Baby Go car.
 
-## Our Challenge
+# Our Challenge
 
 Since toddlers are so young, very few powered wheelchairs exist to accommodate motor disabilities, and options that do exist are usually too expensive, and too impractical with respect to user development. The high costs, complicated mechanics, and intimidating stature of existing motorized wheelchairs conflict with the nature of toddlers, who need to be motivated to explore and interact with their surroundings. 
 
