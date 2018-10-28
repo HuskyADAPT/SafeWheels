@@ -37,9 +37,9 @@ We want to use the parts which can be bought easily and do not need professional
 7th November 2017: Mid-quarter presentation.  
 14th November 2017: Researched power steering.  
 21st November 2017: Finalised core functions, design idea.  
-14th December 2017: Final presentation.
-7th January - 16 March 2018: Developed prototype. 
-23rd March 2018: Presented prototype at design showcase. 
+14th December 2017: Final presentation.  
+7th January - 16 March 2018: Developed prototype.  
+23rd March 2018: Presented prototype at design showcase.  
 4th April 2018: Provided resources for future teams to augment prototype.
 
 # Acknowledgements
