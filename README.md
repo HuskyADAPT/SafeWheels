@@ -34,16 +34,13 @@ We want to use the parts which can be bought easily and do not need professional
 17th October 2017: Went to toy store and examined the toy car we will be modifying.  
 24th October 2017: Research and ideation of different steering mechanisms using arduinos through online projects.  
 31st October 2017: Researched electrical and mechanical possibilities of joystick.  
-7th November 2017: Mid-Quarter Presentation.  
+7th November 2017: Mid-quarter presentation.  
 14th November 2017: Researched power steering.  
 21st November 2017: Finalised core functions, design idea.  
-14th December 2017: Final Presentation.
-
-# Next Steps
-- Visit Go Baby Go workshop to understand functionality of car  
-- Prepare budget and order components  
-- Build a working model  
-- Test prototype with children
+14th December 2017: Final presentation.
+7th January - 16 March 2018: Developed prototype. 
+23rd March 2018: Presented prototype at design showcase. 
+4th April 2018: Provided resources for future teams to augment prototype.
 
 # Acknowledgements
 Dr. Heather Feldner, Dr. Kat Steele, Dr. Shawn Israel, Ms. Brianna Goodwin  
